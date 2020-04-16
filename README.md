@@ -1,2 +1,1 @@
 # LoverGuoer
-show love page
